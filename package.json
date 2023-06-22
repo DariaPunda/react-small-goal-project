@@ -1,4 +1,5 @@
 {
+  "homepage":"https://github.com/DariaPunda/react-small-goal-project",
   "name": "react-complete-guide",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build --public-url \"/react-small-goal-project/docs/\"",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
